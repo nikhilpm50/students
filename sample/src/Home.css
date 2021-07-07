@@ -1,0 +1,64 @@
+.header {
+  width: 100%;
+  height: 60px;
+  background-color: #323232;
+}
+.fa-user-graduate {
+  color: #1661be;
+  cursor: pointer;
+}
+.fa-book-reader {
+  color: #1661be;
+  cursor: pointer;
+  float: left;
+}
+.fa-chalkboard-teacher {
+  color: #1661be;
+  cursor: pointer;
+  float: left;
+}
+.sub {
+  padding-left: 55%;
+
+  width: fit-content;
+  margin-top: -113px;
+}
+.stud {
+  padding-left: 35%;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-top: 94px;
+}
+.class {
+  width: fit-content;
+  padding-left: 35%;
+  margin-top: 233px;
+}
+.stud-h {
+  margin-top: -210px;
+  padding-left: 35%;
+  color: #323232;
+}
+.sub-h {
+  padding-left: 55%;
+  margin-top: -25px;
+  color: #323232;
+}
+.class-h {
+  padding-left: 35%;
+  /* margin-bottom: -18px; */
+  margin-top: 203px;
+  color: #323232;
+}
+.registrar {
+  padding-left: 55%;
+  color: #1661be;
+}
+.registrar-h {
+  padding-left: 55%;
+  margin-top: -25px;
+  color: #323232;
+}
+.fa-book {
+  color: #1661be;
+}
