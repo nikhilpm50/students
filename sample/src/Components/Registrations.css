@@ -1,0 +1,219 @@
+.nav1 {
+  width: 100%;
+  height: 60px;
+  background: #323232;
+}
+.register {
+  padding-left: 628px;
+  width: fit-content;
+}
+.del-rgn {
+  margin-top: 24px;
+  padding-left: 44.8%;
+}
+.sel-cls {
+  margin-top: -1.6em;
+  width: 9em;
+  height: 2.4em;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 6px;
+  padding: 5px;
+  border: 1px solid #4195fc;
+  border-radius: 4px;
+  box-shadow: 0px 0px 4px #4195fc;
+
+  margin-left: 134px;
+}
+.reg-stud {
+  padding-left: 82px;
+  margin-top: -53px;
+  width: fit-content;
+  padding-bottom: 25px;
+}
+.sel-cls1 {
+  margin-top: -1.6em;
+  width: 9em;
+  height: 2.4em;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 6px;
+  padding: 5px;
+  border: 1px solid #4195fc;
+  border-radius: 4px;
+  box-shadow: 0px 0px 4px #4195fc;
+
+  margin-left: 134px;
+}
+.sel-cls2 {
+  margin-top: 1.4em;
+  width: 9em;
+  height: 2.4em;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 6px;
+  padding: 5px;
+  border: 1px solid #4195fc;
+  border-radius: 4px;
+  box-shadow: 0px 0px 4px #4195fc;
+  margin-left: 10px;
+}
+.tit-head {
+  margin-bottom: 35px;
+  margin-left: 100px;
+}
+.subj {
+  width: fit-content;
+  /* padding-bottom: 10px; */
+  padding-top: 50px;
+}
+.btn-reg {
+  padding-top: 35px;
+  padding-left: 60px;
+}
+.det-reg {
+  box-shadow: 1px 1px 4px 1px grey;
+  margin: 10px;
+  padding: 13px;
+  justify-content: center;
+  align-items: center;
+  color: #323232;
+  width: 254px;
+  margin-left: 90px;
+  margin-top: 16px;
+  margin-bottom: 35px;
+  height: 70px;
+}
+.regs {
+  padding-left: 33px;
+  /* margin-top: -31px; */
+}
+.delbtn-reg {
+  padding-left: 13px;
+  padding-top: 20px;
+}
+.new-head1 {
+  margin-top: 81px;
+  margin-bottom: 28px;
+  margin-left: 854px;
+}
+.id {
+  margin-left: -54px;
+  margin-top: -39px;
+}
+.stu {
+  margin-bottom: -36px;
+  margin-left: -135px;
+}
+.sub1 {
+  margin-top: 166px;
+  margin-left: -123px;
+}
+
+.cls-btn4 {
+  margin-left: 158px;
+
+  display: block;
+  font-size: 1rem;
+  margin-bottom: -218px;
+  padding: 0.5rem 1.8rem;
+  background-color: #1661be;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0.3rem;
+  margin-right: 2px;
+}
+.det1 {
+  margin-left: 111px;
+  margin-top: -21px;
+  color: #1661be;
+  cursor: pointer;
+}
+.fas fa-home {
+  margin-left: 37px;
+  margin-top: 13px;
+  color: white;
+}
+.dlt1-btn {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: -218px;
+  padding: 0.5rem 1.8rem;
+  background-color: #1661be;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0.3rem;
+  margin-right: 2px;
+  /* margin-bottom: -5px; */
+  padding-bottom: 2px;
+  margin-left: 155px;
+  margin-top: -44px;
+}
+.dropdown {
+  width: 200px;
+  margin: 100px auto;
+  position: relative;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.dropdown .dropbtn {
+  padding: 15px 20px;
+  background: #fff;
+  box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.6);
+  font-weight: bold;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.dropdown-content {
+  position: absolute;
+  top: 110%;
+  padding: 15px;
+  background: #fff;
+  box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.6);
+  font-weight: 500;
+  color: #333;
+  width: 85%;
+}
+.dropdown-items {
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.dropdown-items:hover {
+  background: #f4f4f4;
+}
+.dropdown2 {
+  width: 200px;
+  margin: 100px auto;
+  position: relative;
+  margin-left: 282px;
+  margin-top: -150px;
+}
+.dropdown2 .dropbtn2 {
+  padding: 15px 20px;
+  background: #fff;
+  box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.6);
+  font-weight: bold;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+.register-btn {
+  margin-top: 30px;
+  margin-left: -255px;
+}
