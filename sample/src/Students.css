@@ -1,0 +1,123 @@
+.header {
+  width: 100%;
+  height: 60px;
+  background-color: #323232;
+}
+.students {
+  color: #323232;
+  padding-left: 41%;
+  margin-top: -34px;
+}
+.details {
+  box-shadow: 1px 1px 4px 1px grey;
+  margin: 10px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  color: #323232;
+  width: 219px;
+  float: left;
+  margin-top: 38px;
+}
+.det {
+  margin-left: 48px;
+}
+.details1 {
+  display: block;
+
+  background-color: #1661be;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0.3rem;
+
+  margin-bottom: -5px;
+
+  width: 60px;
+  height: 21px;
+}
+.fa-home {
+  margin-left: 56px;
+  margin-top: 75px;
+  color: #1661be;
+}
+.overlay {
+  background: rgba(49, 49, 49, 0.8);
+}
+.modal,
+.overlay {
+  width: 100vw;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+}
+
+body.active-modal {
+  overflow-y: hidden;
+}
+.modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4;
+  background: #f1f1f1;
+  max-width: 600px;
+  height: 274px;
+  display: flex;
+  align-items: center;
+  width: 500px;
+  border-radius: 35px;
+}
+.name {
+  margin-bottom: 84px;
+  margin-left: -115px;
+}
+.age {
+  margin-left: -179px;
+}
+.email {
+  margin-bottom: -92px;
+  margin-left: -94px;
+}
+.cls-btn {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: -218px;
+  padding: 0.5rem 1.8rem;
+  background-color: #1661be;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0.3rem;
+  margin-right: 2px;
+  /* margin-bottom: -5px; */
+  padding-bottom: 2px;
+}
+.nav {
+  width: 100%;
+  height: px;
+  height: 50px;
+  background: #323232;
+  margin-bottom: 291px;
+}
+.deti {
+  margin-bottom: 205px;
+  margin-left: 27px;
+}
+.p1 {
+  margin-left: 16px;
+  margin-top: -82px;
+}
+.p2 {
+  margin-left: 32px;
+}
+.p3 {
+  margin-top: 94px;
+  margin-left: 20px;
+}
