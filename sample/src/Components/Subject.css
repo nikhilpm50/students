@@ -1,0 +1,157 @@
+.header {
+  width: 100%;
+  height: 60px;
+  background-color: #323232;
+}
+.students1 {
+  color: #323232;
+  padding-left: 41%;
+  margin-top: -34px;
+}
+.detailss {
+  box-shadow: 1px 1px 4px 1px grey;
+  margin: 10px;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  color: #323232;
+  width: 219px;
+  float: left;
+  margin-left: 100px;
+  margin-top: 38px;
+}
+.deta {
+  padding-left: 94px;
+}
+.fa-home {
+  margin-left: 188px;
+  margin-top: 75px;
+  color: #1661be;
+}
+.newicon {
+  padding-left: 153px;
+}
+
+.overlay {
+  background: rgba(49, 49, 49, 0.8);
+}
+.modal,
+.overlay {
+  width: 100vw;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+}
+
+body.active-modal {
+  overflow-y: hidden;
+}
+.modal-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4;
+  background: #f1f1f1;
+  max-width: 600px;
+  height: 274px;
+  display: flex;
+  align-items: center;
+  width: 500px;
+  border-radius: 35px;
+}
+.name {
+  margin-bottom: 84px;
+  margin-left: -115px;
+}
+.name-sub {
+  margin-left: -103px;
+}
+.email {
+  margin-bottom: -92px;
+  margin-left: -94px;
+}
+.cls-btn1 {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: -209px;
+  padding: 0.5rem 1.8rem;
+  background-color: #1661be;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 0.3rem;
+  margin-right: 2px;
+  /* margin-bottom: -5px; */
+  padding-bottom: 2px;
+  margin-left: 215px;
+}
+.nav {
+  width: 100%;
+  height: px;
+  height: 50px;
+  background: #323232;
+  margin-bottom: 291px;
+}
+.deti {
+  margin-bottom: 205px;
+  margin-left: 27px;
+}
+.p1 {
+  margin-left: 16px;
+  margin-top: -82px;
+}
+.p2 {
+  margin-left: 32px;
+}
+.p3 {
+  margin-top: 94px;
+  margin-left: 20px;
+}
+.cred {
+  margin-bottom: 87px;
+  margin-left: -111px;
+}
+.p13 {
+  margin-left: 100px;
+  margin-top: -23px;
+}
+.nsub {
+  margin-top: 30px;
+  margin-left: -119px;
+}
+.p23 {
+  margin-left: 34px;
+  margin-top: 29px;
+}
+.teacher {
+  margin-top: 123px;
+  margin-left: -149px;
+}
+.p33 {
+  margin-top: 126px;
+  margin-left: 25px;
+}
+.teache {
+  margin-top: 132px;
+  margin-left: -62px;
+}
+.namesub {
+  margin-left: 52px;
+}
+.dynm {
+  margin-left: -249px;
+}
+.s1 {
+  margin-top: 22px;
+}
+.s2 {
+  margin-top: 35px;
+}
+.s3 {
+  margin-top: 29px;
+}
